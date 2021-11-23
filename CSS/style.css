@@ -161,6 +161,10 @@ header{
 	width: 33.33%;
 	padding: 10px;
 }
+.column img{
+	border-radius: 5px;	
+}
+
 .row::after{	
 	display: table;
 	clear: both;
